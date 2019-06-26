@@ -22,7 +22,7 @@ width="50%" />
 Install the plugin
 
 ```batch
-$ cordova plugin add https://github.com/ourcodeworld/cordova-ourcodeworld-filebrowser.git
+$ cordova plugin add https://github.com/arungrajvlm/cordova-ourcodeworld-filebrowser.git
 ```
 
 After installing the plugin, remember that the targetSdkVersion of cordova needs to be less than 24 e.g in Cordova 9.0.1, you need to specify inside the `config.xml` file of your project:
